@@ -1,0 +1,28 @@
+body{
+
+    background-color:black;
+    text-align:center;
+}
+
+
+#board{
+
+    border:solid;
+    border-color:white;
+    border-radius:50px;
+}
+
+
+#gameover{
+    display:block;
+    color:white;
+    text-align:center;
+}
+
+#points{
+    color:white
+}
+
+#highscore{
+    color:white
+}
